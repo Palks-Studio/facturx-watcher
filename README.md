@@ -1,7 +1,7 @@
 <p align="center">
   <img src="docs/images/facturx-watcher.png"
        alt="Factur-X Watcher workflow diagram"
-       width="600">
+       width="1200">
 </p>
 
 ![License](https://img.shields.io/badge/License-LICENSE.md-lightgreen.svg)
